@@ -320,12 +320,11 @@ public class MainActivity extends AppCompatActivity {
 ```
 
 ## OUTPUT
+<img src="https://github.com/Khabir-Ahmed786/animation/assets/143950752/48743743-5c92-47eb-99aa-156b5e4c1818.png" height="600">
+<img src="https://github.com/Khabir-Ahmed786/animation/assets/143950752/a5de6d0d-5bdf-42d4-872f-1814dccc94c7.png" height="600">
+<img src="https://github.com/Khabir-Ahmed786/animation/assets/143950752/527c2df8-15a0-465b-841f-4b60e3be026c.png" height="600">
 
-![WhatsApp Image 2024-04-25 at 09 52 26_d8e60f20](https://github.com/Khabir-Ahmed786/animation/assets/143950752/48743743-5c92-47eb-99aa-156b5e4c1818)
 
-![WhatsApp Image 2024-04-25 at 09 52 26_da924829](https://github.com/Khabir-Ahmed786/animation/assets/143950752/a5de6d0d-5bdf-42d4-872f-1814dccc94c7)
-
-![WhatsApp Image 2024-04-25 at 09 52 26_1622f319](https://github.com/Khabir-Ahmed786/animation/assets/143950752/527c2df8-15a0-465b-841f-4b60e3be026c)
 
 
 
